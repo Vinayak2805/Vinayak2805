@@ -2,3 +2,5 @@
 - 👀 I’m interested in Web-Development (html, css, basic js, bootstrap), Basic python.
 - 🌱 I’m currently learning Bootstrap and Github
 - 📫 How to reach me: vinayakkumar@gmail.com
+-  Visit a sample which I made using bootstrap and hosted it on github: https://vinayak2805.github.io/vinCoder/
+-  Visit another blog which I made using wordpress: https://vinwebsitesmyblog.wordpress.com/
