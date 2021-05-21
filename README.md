@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vinayak Kumar
+- 👀 I’m interested in Web-Development (html, css, basic js, bootstrap), Basic python.
+- 🌱 I’m currently learning Bootstrap and Github
+- 📫 How to reach me: vinayakkumar@gmail.com
