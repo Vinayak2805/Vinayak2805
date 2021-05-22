@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vinayak Kumar
 - 👀 I’m interested in Web-Development (html, css, basic js, bootstrap), Basic python.
-- 🌱 I’m currently learning Bootstrap and Github
+- 🌱 I’m currently in class VII in Sarala Birla Public School
 - 📫 How to reach me: vinayakkumar@gmail.com
+-  I'm currently making a snake game using html, css and js which i will be hosting on github soon. 
 -  Visit a sample which I made using bootstrap and hosted it on github: https://vinayak2805.github.io/vinCoder/
 -  Visit another blog which I made using wordpress: https://vinwebsitesmyblog.wordpress.com/
