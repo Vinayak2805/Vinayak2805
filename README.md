@@ -3,6 +3,7 @@
 - 🌱 I’m currently in class VII in Sarala Birla Public School
 - 📫 How to reach me: vinayakkumar@gmail.com
 -  I'm currently making a snake game using html, css and js which i will be hosting on github soon. 
+-  Visit a complete cheatsheet of html https://vinayak2805.github.io/HtmlCheatsheet/
 -  Visit a sample which I made using bootstrap and hosted it on github: https://vinayak2805.github.io/vinCoder/
 -  Visit another blog which I made using wordpress: https://vinwebsitesmyblog.wordpress.com/
 -  Play the snake, water, game which I made using python: https://github.com/Vinayak2805/SnakeWaterGunGame
