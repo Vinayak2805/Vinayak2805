@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web-Development (html, css, basic js, bootstrap), Basic python.
 - 🌱 I’m currently in class VII in Sarala Birla Public School
 - 📫 How to reach me: vinayakkumar2805@gmail.com
+-  Visit a new calculator made using simple javascript https://vinayak2805.github.io/Calculator/
 -  Visit a new img guessing game https://vinayak2805.github.io/GuessTheImg/
 -  Visit a snake game made using html, css and js https://vinayak2805.github.io/SnakeGame/
 -  Visit a notes-adding application website made using html, bootstrap, js, localstorage https://vinayak2805.github.io/MyNotes/  
