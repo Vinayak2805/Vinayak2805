@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web-Development (html, css, basic js, bootstrap), Basic python.
 - 🌱 I’m currently in class VII in Sarala Birla Public School
 - 📫 How to reach me: vinayakkumar2805@gmail.com
+-  Visit TextUtils app made using ReactJS and BootstarpCSS which has features to convert your text to uppercase, lowercase, remove extra spaces, copy the modified text. It also has a dark/light mode toggler: https://vinayak2805.github.io/Text-Utils/
 -  Visit a new calculator made using simple javascript https://vinayak2805.github.io/Calculator/
 -  Visit a new img guessing game https://vinayak2805.github.io/GuessTheImg/
 -  Visit a snake game made using html, css and js https://vinayak2805.github.io/SnakeGame/
