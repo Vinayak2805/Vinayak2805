@@ -4,9 +4,10 @@
 - 📫 How to reach me: vinayakkumar2805@gmail.com
 -  Visit TextUtils app made using ReactJS and BootstarpCSS which has features to convert your text to uppercase, lowercase, remove extra spaces, copy the modified text. It also has a dark/light mode toggler: https://vinayak2805.github.io/Text-Utils/
 -  Visit a new calculator made using simple javascript https://vinayak2805.github.io/Calculator/
--  Visit a new img guessing game https://vinayak2805.github.io/GuessTheImg/
+-  Visit a loader animation made using CSS only: https://vinayak2805.github.io/LoaderAnimation/
 -  Visit a snake game made using html, css and js https://vinayak2805.github.io/SnakeGame/
 -  Visit a notes-adding application website made using html, bootstrap, js, localstorage https://vinayak2805.github.io/MyNotes/  
+-  Visit a new img guessing game https://vinayak2805.github.io/GuessTheImg/
 -  Visit a complete cheatsheet of html https://vinayak2805.github.io/HtmlCheatsheet/
 -  Visit a sample which I made using bootstrap and hosted it on github: https://vinayak2805.github.io/vinCoder/
 -  Visit another blog which I made using wordpress: https://vinwebsitesmyblog.wordpress.com/
